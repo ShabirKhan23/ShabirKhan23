@@ -1,4 +1,4 @@
-add banner :
+
 ![MasterHead](https://i.gifer.com/fetch/w300-preview/1e/1e4ea0ce0fc517a2749dd8c918de8796.gif)
 <h1 align="center">Hi 👋, I'm Shabir</h1>
 <h3 align="center">A passionate Full Stack Developer and Hacker from Pakistan</h3>
