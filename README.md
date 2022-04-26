@@ -1,3 +1,5 @@
+add banner (use your links) :
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shabir</h1>
 <h3 align="center">A passionate Full Stack Developer and Hacker from Pakistan</h3>
 
