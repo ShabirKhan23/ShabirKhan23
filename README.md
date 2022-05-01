@@ -3,7 +3,14 @@
 
 # Hi 👋 My name is Shabir
 
-=======================<h2>Web Developer,Hacker</h2>--------------------I have been working as a web developer and ethical hacker from last 4 years.I have good skills at both fields.Have skills in multiple programming languages like JavaScript ,Python,Rust etc.and i enjoy my life!* 🌍  I'm based in Gilgit Pakistan* 🖥️  See my portfolio at [MyPortfolio](http://myapp.com)* ✉️  You can contact me at [contactshabir23@gmail.com](mailto:contactshabir23@gmail.com)* 🚀  I'm currently working on [MyBlog](http://notPublish)* 🧠  I'm learning Typescript and Web assembly* ⚡  I Dont follow Rule.No Matter What are they
+=======================<h2>Web Developer,Hacker</h2>--------------------I have been working as a web developer and ethical hacker from last 4 years.I have good skills at both fields.Have skills in multiple programming languages like JavaScript ,Python,Rust etc.and i enjoy my life!
+
+* 🌍  I'm based in Gilgit Pakistan * 
+* 🖥️  See my portfolio at [MyPortfolio](http://myapp.com)*  
+* ✉️  You can contact me at [contactshabir23@gmail.com](mailto:contactshabir23@gmail.com)* 
+* 🚀  I'm currently working on [MyBlog](http://notPublish)* 
+* 🧠  I'm learning Typescript and Web assembly* 
+* ⚡  I Dont follow Rule.No Matter What are they
 
 <a href="https://www.github.com/ShabirKhan23" target="_blank" rel="noreferrer"><imgsrc="https://img.shields.io/github/followers/ShabirKhan23?logo=github&style=for-the-badge&color=84cc16&labelColor=1e3a8a" /></a>
 
